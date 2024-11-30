@@ -42,7 +42,7 @@ namespace WebApplication1.Controllers
             }
             catch (ArgumentNullException )
             {
-                Console.WriteLine("ділення на 0");
+                Console.WriteLine("Ділення на 0");
             }
             return View("Index");
 

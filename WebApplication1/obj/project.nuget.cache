@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WB6uUIBPcjc5mDDMoQpYl5UI/VaH8Me4U68di0AMcnWd1bA9Mz5UdAtlUasWW53JlXpIb714BMjJGlgTLhDvbg==",
+  "dgSpecHash": "2fkXs6o+6ePOPjUJRJSHAbeYUpwCVMP0UBWWBawyGCzTk2JQZwMg5FvTo7MQLqUCpLldiQGPHgyTeu1rm7N3nQ==",
   "success": true,
-  "projectFilePath": "D:\\7\\Devops\\кулькулятор\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "D:\\git\\Webcalculator\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
